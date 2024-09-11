@@ -1499,6 +1499,17 @@
 		)
 		(uuid "fcf08c00-f3ce-4e27-bfc5-0f239d538ec3")
 	)
+	(label "Switch Matrix"
+		(at 106.68 22.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d9a06e12-f86f-4be4-a5f8-82a7fbee789d")
+	)
 	(global_label "COL0"
 		(shape input)
 		(at 137.16 22.86 90)
