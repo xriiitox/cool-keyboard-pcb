@@ -111,7 +111,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D9"
-			(at 5.08 -2.47 0)
+			(at -2.54005 0.00005 0)
 			(layer "F.SilkS")
 			(uuid "dc66fc58-0ab8-4237-baef-857be1b277c8")
 			(effects
@@ -496,7 +496,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D6"
-			(at 5.08 -2.47 90)
+			(at -2.06375 0 180)
 			(layer "F.SilkS")
 			(uuid "e1c7cfe2-089c-48b1-a620-c71c177ec1c2")
 			(effects
@@ -881,7 +881,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D10"
-			(at 5.08 -2.47 0)
+			(at 13.335 0.00005 0)
 			(layer "F.SilkS")
 			(uuid "963687d9-eb16-4c64-9bf5-47713307c7be")
 			(effects
@@ -1266,7 +1266,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D3"
-			(at 5.08 -2.47 90)
+			(at -2.06375 0.00005 180)
 			(layer "F.SilkS")
 			(uuid "bf9f3554-c30a-4660-99ab-13d3af0e0612")
 			(effects
@@ -2341,7 +2341,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D4"
-			(at 5.08 -2.47 90)
+			(at -2.06375 0 180)
 			(layer "F.SilkS")
 			(uuid "8d2a1b0a-2f03-4f6c-b80b-482bd65e2a8e")
 			(effects
@@ -2726,7 +2726,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D1"
-			(at 5.08 -2.47 90)
+			(at -2.06375 0.00005 180)
 			(layer "F.SilkS")
 			(uuid "cc4da78c-aa11-4fa5-b494-c09cbc420142")
 			(effects
@@ -3571,7 +3571,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D2"
-			(at 5.08 -2.47 90)
+			(at -2.06375 0 180)
 			(layer "F.SilkS")
 			(uuid "181d7b23-efe5-4db8-9a24-621707087123")
 			(effects
@@ -4416,7 +4416,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D7"
-			(at 5.08 -2.47 90)
+			(at -2.06375 0.00005 180)
 			(layer "F.SilkS")
 			(uuid "fd5c3aad-82d9-4b87-b95c-7fe830444c64")
 			(effects
@@ -5713,7 +5713,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D5"
-			(at 5.08 -2.47 90)
+			(at -2.06375 0.00005 180)
 			(layer "F.SilkS")
 			(uuid "7aca216c-11b5-4586-9797-0e6bb43a43c7")
 			(effects
@@ -6328,7 +6328,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D8"
-			(at 5.08 -2.47 90)
+			(at -2.06375 0 180)
 			(layer "F.SilkS")
 			(uuid "e2908697-1eeb-4b47-ba3e-f16c30e54cf0")
 			(effects
