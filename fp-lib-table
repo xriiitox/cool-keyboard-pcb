@@ -3,4 +3,5 @@
   (lib (name "Rotary_Encoder")(type "KiCad")(uri "${KIPRJMOD}/libraries/Rotary_Encoder.pretty")(options "")(descr ""))
   (lib (name "MX_Solderable")(type "KiCad")(uri "${KIPRJMOD}/libraries/MX_V2/MX_Solderable.pretty")(options "")(descr ""))
   (lib (name "XIAO_PCB")(type "KiCad")(uri "${KIPRJMOD}/libraries/Seeeduino-xiao-rp2040-KiCAD-Library/XIAO_PCB.pretty")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/libraries/SSD1306.pretty")(options "")(descr ""))
 )
