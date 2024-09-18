@@ -1877,6 +1877,17 @@
 			(pintype "passive")
 			(uuid "3c12d334-2845-4979-8f35-f15c234ac999")
 		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_Solderable:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -2106,6 +2117,17 @@
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "ccddadd4-cfbe-40c2-9412-d6e7ffb841c7")
+		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "SSD1306:128x64OLED"
@@ -2609,6 +2631,17 @@
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "bd2fbb87-f00d-4e85-9506-2b653934d72a")
+		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "Diode_THT:D_A-405_P10.16mm_Horizontal"
@@ -3612,6 +3645,17 @@
 			(pintype "passive")
 			(uuid "7df07d01-86bb-48f9-9605-b6e3ba1bfa03")
 		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_Solderable:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -3841,6 +3885,17 @@
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "33107c40-3e44-4f98-9ec7-7101c28d86bb")
+		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "Diode_THT:D_A-405_P10.16mm_Horizontal"
@@ -4458,6 +4513,17 @@
 			(pintype "passive")
 			(uuid "4e0c4238-39f7-4b1f-8e58-e4c42ed32f8b")
 		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_Solderable:MX-Solderable-1U"
 		(layer "F.Cu")
@@ -4687,6 +4753,17 @@
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "fcc32d63-ff1e-43dc-85e2-dc2033c602f3")
+		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "Diode_THT:D_A-405_P10.16mm_Horizontal"
@@ -5303,6 +5380,17 @@
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "f592b69c-00c5-47cc-bdf1-985b9cd7c73a")
+		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "XIAO_PCB:MOUDLE14P-2.54-21X17.8MM"
@@ -6188,6 +6276,17 @@
 			(pintype "passive")
 			(uuid "0c19e97a-e0a3-402b-8be9-84ce9be6b593")
 		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_A-405_P10.16mm_Horizontal"
 		(layer "F.Cu")
@@ -6803,6 +6902,17 @@
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "08b66014-fa72-4498-8598-31257b01204f")
+		)
+		(model "${KIPRJMOD}/libraries/Cherry MX.STEP"
+			(offset
+				(xyz 0 1.27 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(gr_line
