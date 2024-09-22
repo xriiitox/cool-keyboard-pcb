@@ -5651,7 +5651,7 @@
 		)
 		(model "${KIPRJMOD}/libraries/Seeed Studio XIAO RP2040 v26.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 2.54)
 			)
 			(scale
 				(xyz 1 1 1)
